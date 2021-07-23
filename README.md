@@ -13,7 +13,7 @@ Front-end with Vue.js.
 npm run serve   
 (should be in Port 8081)
 
-- objective : Applying principles of oop and design patterns. Using vue.js and spring boot.
+- Objective : Applying principles of oop and design patterns. Using vue.js and spring boot.
 - We are team of 4.
 
 
