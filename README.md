@@ -17,4 +17,4 @@ npm run serve
 - We are team of 4.
 
 
-*for more information about the program -like the UML, how we have applied design patterns and Snapshots of the program- you can check the pdf file "Project proposal".*
+*for more information about the program -like the UML, how we have applied design patterns and Snapshots of the program- you can check the pdf file "Project proposal".*https://github.com/MohamedIbrahim99/Mail-Server-WebApplication/blob/main/Project%20proposal.pdf
