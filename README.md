@@ -7,3 +7,5 @@ How to run the program :
 2.Open the file of  front end from terminal and run: 
 npm run serve   
 (should be in Port 8081)
+
+*for more information about the program you can check the pdf file "Project proposal". *
