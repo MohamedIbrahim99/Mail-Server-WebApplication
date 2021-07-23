@@ -13,7 +13,8 @@ Front-end with Vue.js.
 npm run serve   
 (should be in Port 8081)
 
-- We are team of 4.
 - objective : Applying principles of oop and design patterns. Using vue.js and spring boot.
+- We are team of 4.
+
 
 *for more information about the program -like the UML, how we have applied design patterns and Snapshots of the program- you can check the pdf file "Project proposal".*
