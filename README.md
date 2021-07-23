@@ -8,4 +8,4 @@ How to run the program :
 npm run serve   
 (should be in Port 8081)
 
-*for more information about the program -like the UML and Snapshots of the program- you can check the pdf file "Project proposal".*
+*for more information about the program -like the UML, how we have applied design patterns and Snapshots of the program- you can check the pdf file "Project proposal".*
