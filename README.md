@@ -1,11 +1,19 @@
 # Mail-Server-WebApplication
-- A web-based email program :
 
-Back-end with spring-boot. 
+- Designed a Gmail-like web application using OOP concepts and Design Patterns. 
+- Developed different web pages using Web API Routing. Implemented a REST API for the website. 
+- Implemented the basic functionalities of a mail server, including manipulation of mails and contacts like : 
+  - Sending mails, receiving mails and also dividing them into folders. 
+  - Delete, filter, search for mails and contacts.
+  - Add, edit and remove contacts.
 
-Front-end with Vue.js.
+
+- Back-end with Java spring-boot. 
+
+- Front-end with Vue.js.
  
-- How to run the program :
+ 
+ ### How to run the program :
 
 1.run the back end program from any spring boot IDE in port 8080.
 
